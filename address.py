@@ -101,10 +101,6 @@ except:
 
 
 
-# now lets play with location
-
-
-
 
 
 
